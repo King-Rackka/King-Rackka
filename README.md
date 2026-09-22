@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
     <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="40" alt="Hi" />
 </p>
 
@@ -261,4 +261,4 @@ This section is dedicated to those who support my work monthly/one time through
 
 <p align="center">
     <b>Let's connect and build something amazing together!</b>
-</p>
+</p> -->
