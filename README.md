@@ -15,10 +15,10 @@
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ridwaanhall&color=blue&label=Profile%20Views" alt="Profile Views" />
-    <a href="https://www.linkedin.com/in/radityameyka/"><img src="https://img.shields.io/badge/LinkedIn-in/ridwaanhall-blue?logo=linkedin" alt="LinkedIn" /></a>
-    <a href="https://instagram.com/rackka.docs"><img src="https://img.shields.io/badge/-@ridwaanhall-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="mailto:hi@radityameyka5@gmail.com"><img src="https://img.shields.io/badge/-hi@ridwaanhall.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <img src="https://komarev.com/ghpvc/?username=King-Rackka&color=blue&label=Profile%20Views" alt="Profile Views" />
+    <a href="https://www.linkedin.com/in/radityameyka/"><img src="https://img.shields.io/badge/LinkedIn-in/radityameyka-blue?logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://instagram.com/rackka.docs"><img src="https://img.shields.io/badge/-@rackka.docs-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="mailto:hi@radityameyka5@gmail.com"><img src="https://img.shields.io/badge/-hi@radityameyka5.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ## 😄 About Me
