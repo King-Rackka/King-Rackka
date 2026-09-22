@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-Halo! Aku **Raditya**, Front-End Developer yang mulai kenal dunia coding sejak SMK dan terus lanjut ngulik sampai sekarang. Saat ini aku kuliah di **Politeknik Negeri Jakarta**, jurusan **Teknik Informatika dan Komputer (TIK)**, berbasis di **Depok, Jawa Barat**.
+Halo! Aku **Raditya Meyka Harry Sandhiva**, Front-End Developer yang mulai kenal dunia coding sejak SMK dan terus lanjut ngulik sampai sekarang. Saat ini aku kuliah di **Politeknik Negeri Jakarta**, jurusan **Teknik Informatika dan Komputer (TIK)**, berbasis di **Depok, Jawa Barat**.
 
 - 🎨 Fokus di sisi **Front-End**, suka bikin UI yang rapi, responsif, dan enak dipakai
 - 🧠 Tertarik juga sama dunia **AI** dan gimana AI bisa dipadukan sama web development
@@ -89,14 +89,21 @@ Halo! Aku **Raditya**, Front-End Developer yang mulai kenal dunia coding sejak S
 
 ## 📊 GitHub Stats
 
-<p align="center">
-    <img height="165" src="https://github-readme-stats-navy-phi-95.vercel.app/api?username=King-Rackka&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=contribs" alt="King-Rackka GitHub Stats" />
-    <img height="165" src="https://github-readme-stats-navy-phi-95.vercel.app/api/top-langs/?username=King-Rackka&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=King-Rackka&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-</p>
+<table align="center">
+    <tr>
+        <td align="center">
+            <img height="165" src="https://github-readme-stats-navy-phi-95.vercel.app/api?username=King-Rackka&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=contribs" alt="King-Rackka GitHub Stats" />
+        </td>
+        <td align="center">
+            <img height="165" src="https://github-readme-stats-navy-phi-95.vercel.app/api/top-langs/?username=King-Rackka&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6" alt="Top Languages" />
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <img src="https://streak-stats.demolab.com/?user=King-Rackka&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+        </td>
+    </tr>
+</table>
 
 <br />
 
@@ -124,6 +131,7 @@ Halo! Aku **Raditya**, Front-End Developer yang mulai kenal dunia coding sejak S
 ## 🌐 Connect With Me
 
 <p align="center">
+    <a href="https://radityameyka.my.id/" target="_blank"><img src="https://img.shields.io/badge/Web%20Portfolio-radityameyka.my.id-1CA0F1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/radityameyka/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-radityameyka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://instagram.com/rackka.docs" target="_blank"><img src="https://img.shields.io/badge/Instagram-rackka.docs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="mailto:radityameyka5@gmail.com"><img src="https://img.shields.io/badge/Gmail-radityameyka5-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
