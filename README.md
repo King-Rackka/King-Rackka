@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1CA0F1,100:6C63FF&height=220&section=header&text=King-Rackka&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20%26%20AI%20Enthusiast&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="banner" />
+<img src="https://raw.githubusercontent.com/King-Rackka/King-Rackka/main/banner.svg" width="100%" alt="banner" />
 
-<samp>
-    <a href="https://radityameyka.my.id/" target="_blank"><b>Web Portfolio</b></a>
-</samp>
-
-<br /><br />
+<br />
 
 <img src="https://komarev.com/ghpvc/?username=King-Rackka&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/King-Rackka?label=FOLLOWERS&style=for-the-badge&color=6C63FF&labelColor=1a1a2e" alt="Followers" />
@@ -131,7 +127,6 @@ Halo! Aku **Raditya**, Front-End Developer yang mulai kenal dunia coding sejak S
     <a href="https://www.linkedin.com/in/radityameyka/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-radityameyka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://instagram.com/rackka.docs" target="_blank"><img src="https://img.shields.io/badge/Instagram-rackka.docs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="mailto:radityameyka5@gmail.com"><img src="https://img.shields.io/badge/Gmail-radityameyka5-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/Discord-raditya5563-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
 <br />
