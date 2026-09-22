@@ -94,12 +94,12 @@ Halo! Aku **Raditya**, Front-End Developer yang mulai kenal dunia coding sejak S
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img height="165" src="https://github-readme-stats-navy-phi-95.vercel.app/api?username=King-Rackka&show_icons=true" alt="King-Rackka GitHub Stats" />
-    <img height="165" src="https://github-readme-stats-navy-phi-95.vercel.app/api?username=King-Rackka&show_icons=true" alt="Top Languages" />
+    <img height="165" src="https://github-readme-stats-navy-phi-95.vercel.app/api?username=King-Rackka&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=contribs" alt="King-Rackka GitHub Stats" />
+    <img height="165" src="https://github-readme-stats-navy-phi-95.vercel.app/api/top-langs/?username=King-Rackka&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=King-Rackka&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.vercel.app/?user=King-Rackka&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </p>
 
 <br />
