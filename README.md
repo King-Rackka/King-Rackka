@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=1CA0F1&center=true&vCenter=true&width=435&lines=Assalamu'alaikum,+I'm+Ridwan;Welcome+to+my+GitHub+profile!" alt="ridwaanhall is a web and ai programmer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=1CA0F1&center=true&vCenter=true&width=435&lines=Assalamu'alaikum,+I'm+Raditya+Meyka;Welcome+to+my+GitHub+profile!" alt="ridwaanhall is a web and ai programmer" />
 </h1>
 
 <p align="center">
@@ -15,101 +15,10 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ridwaanhall&color=blue&label=Profile%20Views" alt="Profile Views" />
-    <a href="https://www.linkedin.com/in/ridwaanhall/"><img src="https://img.shields.io/badge/LinkedIn-in/ridwaanhall-blue?logo=linkedin" alt="LinkedIn" /></a>
-    <a href="https://instagram.com/ridwaanhall"><img src="https://img.shields.io/badge/-@ridwaanhall-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://x.com/ridwaanhall"><img src="https://img.shields.io/badge/-@ridwaanhall-000000?style=flat&labelColor=000000&logo=x&logoColor=white" alt="X" /></a>
-    <a href="mailto:hi@ridwaanhall.com"><img src="https://img.shields.io/badge/-hi@ridwaanhall.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="https://github.com/ridwaanhall"><img src="https://img.shields.io/github/followers/ridwaanhall?label=GitHub%20Followers" alt="GitHub Followers" /></a>
+    <a href="https://www.linkedin.com/in/radityameyka/"><img src="https://img.shields.io/badge/LinkedIn-in/ridwaanhall-blue?logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://instagram.com/rackka.docs"><img src="https://img.shields.io/badge/-@ridwaanhall-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="mailto:hi@radityameyka5@gmail.com"><img src="https://img.shields.io/badge/-hi@ridwaanhall.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
-
-## 🌟 Support My Work
-
-<p align="center">
-    If my projects sparked value—or your wallet’s begging for a diet—drop your funds here. I catch, I thank, I build.
-</p>
-
-<p align="center">
-    <a href="https://github.com/sponsors/ridwaanhall/">
-        <img src="https://img.shields.io/badge/-Sponsor%20Me-blue?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor Me" />
-    </a>
-    <a href="https://buymeacoffee.com/ridwaanhall">
-        <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee" />
-    </a>
-    <a href="https://saweria.co/ridwaanhall">
-        <img src="https://img.shields.io/badge/-Saweria-orange?style=for-the-badge" alt="Saweria" />
-    </a>
-    <a href="https://sociabuzz.com/ridwaanhall/support">
-        <img src="https://img.shields.io/badge/-Sociabuzz-red?style=for-the-badge" alt="Sociabuzz" />
-    </a>
-</p>
-
-<p align="center">
-    No gimmicks—just real support and real appreciation.
-    <br />
-    Supporters get a name drop on GitHub and a louder voice in shaping future features.
-</p>
-
-## 💖 Supporters of RoneAI
-
-This section is dedicated to those who support my work monthly/one time through  
-[GitHub Sponsors](https://github.com/sponsors/ridwaanhall), [Buy Me a Coffee](https://buymeacoffee.com/ridwaanhall), [Saweria](https://saweria.co/ridwaanhall), or [Sociabuzz](https://sociabuzz.com/ridwaanhall/support).
-
-<table align="center">
-    <tr>
-        <th>Tier</th>
-        <th>Price</th>
-        <th>Per</th>
-        <th>Supporters</th>
-    </tr>
-    <tr>
-        <td><b>Lifetime Patrons</b></td>
-        <td>$1500</td>
-        <td>One-time</td>
-        <td>
-            <img src="https://img.shields.io/badge/Support%20Me%20in%20Lifetime%20Patrons-8A2BE2?style=flat" />
-        </td>
-    </tr>
-    <tr>
-        <td><b>Elite Patrons</b></td>
-        <td>$50</td>
-        <td>Month</td>
-        <td>
-            <img src="https://img.shields.io/badge/Support%20Me%20in%20Elite%20Patrons-FFD700?style=flat" />
-        </td>
-    </tr>
-    <tr>
-        <td><b>Core Members</b></td>
-        <td>$10</td>
-        <td>Month</td>
-        <td>
-            <img src="https://img.shields.io/badge/Support%20Me%20in%20Core%20Members-228B22?style=flat" />
-        </td>
-    </tr>
-    <tr>
-        <td><b>Supporter Circle</b></td>
-        <td>$5</td>
-        <td>Month</td>
-        <td>
-            <img src="https://img.shields.io/badge/Support%20Me%20in%20Supporter%20Circle-05122A?style=flat" />
-        </td>
-    </tr>
-    <tr>
-        <td><b>Non-Membership</b></td>
-        <td>$1+</td>
-        <td>One-time</td>
-        <td>
-            <img src="https://img.shields.io/badge/g*****r-05122A?style=flat" />
-        </td>
-    </tr>
-    <tr>
-        <td><b>Previous</b></td>
-        <td>$1+</td>
-        <td>Unlimited</td>
-        <td>
-            <img src="https://img.shields.io/badge/With%20deep%20appreciation%20for%20all%20past%20support%2C%20sponsorships%2C%20and%20donations%20that%20helped%20shape%20this%20journey💫-8A2BE2" />
-        </td>
-    </tr>
-</table>
 
 ## 😄 About Me
 
@@ -130,8 +39,6 @@ This section is dedicated to those who support my work monthly/one time through
 
 ## 🛠️ Tech Stack
 
-**For the most up-to-date information, visit [ridwaanhall.com](https://ridwaanhall.com)*
-
 <table align="center">
     <tr>
         <td><b>Languages</b></td>
@@ -139,40 +46,19 @@ This section is dedicated to those who support my work monthly/one time through
             <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
             <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" />
             <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
-            <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" />
         </td>
     </tr>
     <tr>
         <td><b>Web</b></td>
         <td>
-            <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django" />
-            <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask" />
             <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
-            <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js" />
             <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" />
             <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" />
             <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" />
             <img src="https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css" />
-            <img src="https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma" />
             <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
             <img src="https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress" />
-            <img src="https://img.shields.io/badge/-Material--UI-05122A?style=flat&logo=material-ui" />
             <img src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel" />
-        </td>
-    </tr>
-    <tr>
-        <td><b>Automation</b></td>
-        <td>
-            <img src="https://img.shields.io/badge/-n8n-05122A?style=flat&logo=n8n" />
-        </td>
-    </tr>
-    <tr>
-        <td><b>ML & AI</b></td>
-        <td>
-            <img src="https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow" />
-            <img src="https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch" />
-            <img src="https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras" />
-            <img src="https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn" />
         </td>
     </tr>
     <tr>
@@ -180,6 +66,7 @@ This section is dedicated to those who support my work monthly/one time through
         <td>
             <img src="https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai" />
             <img src="https://img.shields.io/badge/-Gemini-05122A?style=flat&logo=google" />
+            <img src="https://img.shields.io/badge/-claude-05122A?style=flat&logo=claude" />
         </td>
     </tr>
     <tr>
@@ -189,6 +76,7 @@ This section is dedicated to those who support my work monthly/one time through
             <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite" />
             <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" />
             <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" />
+            <img src="https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle" />
         </td>
     </tr>
     <tr>
@@ -201,10 +89,8 @@ This section is dedicated to those who support my work monthly/one time through
     <tr>
         <td><b>APIs</b></td>
         <td>
-            <img src="https://img.shields.io/badge/-DRF-05122A?style=flat&logo=django" />
             <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" />
             <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" />
-            <img src="https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql" />
         </td>
     </tr>
     <tr>
@@ -222,21 +108,13 @@ This section is dedicated to those who support my work monthly/one time through
         </td>
     </tr>
     <tr>
-        <td><b>Web Server</b></td>
-        <td>
-            <img src="https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx" />
-        </td>
-    </tr>
-    <tr>
         <td><b>Editor</b></td>
         <td>
             <img src="https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio-code" />
-            <img src="https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains" />
         </td>
     </tr>
 </table>
 
-## 📊 GitHub Stats
 
 <!-- <p align="center">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=ridwaanhall&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=contribs" alt="Ridwan Halim GitHub Stats" />
