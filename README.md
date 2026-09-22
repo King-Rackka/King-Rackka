@@ -1,42 +1,32 @@
-<p align="center">
-    <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="40" alt="Hi" />
-</p>
+<div align="center">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=1CA0F1&center=true&vCenter=true&width=435&lines=Assalamu'alaikum,+I'm+Raditya;Welcome+to+my+GitHub+profile!" alt="ridwaanhall is a web and ai programmer" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1CA0F1,100:6C63FF&height=220&section=header&text=King-Rackka&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20%26%20AI%20Enthusiast&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="banner" />
 
-<p align="center">
-    <samp>
-        <a href="https://radityameyka.my.id/" target="_blank">Web Portfolio</a> 
-        <!-- <a href="https://bio.ridwaanhall.com" target="_blank">Landing Page</a> |
-        <a href="https://ridwaanhall.com/blog/" target="_blank">Blog</a> -->
-    </samp>
-</p>
+<samp>
+    <a href="https://radityameyka.my.id/" target="_blank"><b>Web Portfolio</b></a>
+</samp>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=King-Rackka&color=blue&label=Profile%20Views" alt="Profile Views" />
-    <a href="https://www.linkedin.com/in/radityameyka/"><img src="https://img.shields.io/badge/LinkedIn-in/radityameyka-blue?logo=linkedin" alt="LinkedIn" /></a>
-    <a href="https://instagram.com/rackka.docs"><img src="https://img.shields.io/badge/-@rackka.docs-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="mailto:hi@radityameyka5@gmail.com"><img src="https://img.shields.io/badge/-hi@radityameyka5.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
+<br /><br />
 
-## 😄 About Me
+<img src="https://komarev.com/ghpvc/?username=King-Rackka&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/King-Rackka?label=FOLLOWERS&style=for-the-badge&color=6C63FF&labelColor=1a1a2e" alt="Followers" />
+<img src="https://img.shields.io/github/stars/King-Rackka?label=STARS&style=for-the-badge&color=6C63FF&labelColor=1a1a2e" alt="Stars" />
 
-- 🧑‍🏫 **Role:** Python Programmer & Indie Developer — building with AI, ML, Web, and Python-powered projects
-- 💻 **Coding Since:** Oct 29, 2023 [![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8.svg)](https://wakatime.com/@018b799e-de53-4f7a-bb65-edc2df9f26d8)
-- 🌏 **Location:** Indonesia (collaborating globally)
-- 🧑‍🤝‍🧑 **Pronouns:** he/him
-- 🌐 **Open To Work:**
-    - 🏠 Remote: Worldwide (with focus on Indonesia, UAE, Brunei, Singapore, Malaysia)
-    - 🏢 On-site: Greater Jakarta, Greater Yogyakarta, Surakarta, Boyolali (Central Java)
-    - 🔄 Hybrid: Available across listed on-site regions with flexible remote setup
-- 🎯 **Interests:**
-    - 🛠️ Building open source tools and products for developers & public
-    - 📚 Lifelong learning & sharing knowledge
-    - 📖 Reading about technology, productivity, and personal growth
-    - 💹 Finance & investing, with a focus on IDX and Sharia-compliant stocks
-- 🤝 **Let’s Connect:** Always happy to chat or answer questions!
+</div>
+
+<br />
+
+## 👋 About Me
+
+Halo! Aku **Raditya**, Front-End Developer yang mulai kenal dunia coding sejak SMK dan terus lanjut ngulik sampai sekarang. Saat ini aku kuliah di **Politeknik Negeri Jakarta**, jurusan **Teknik Informatika dan Komputer (TIK)**, berbasis di **Depok, Jawa Barat**.
+
+- 🎨 Fokus di sisi **Front-End**, suka bikin UI yang rapi, responsif, dan enak dipakai
+- 🧠 Tertarik juga sama dunia **AI** dan gimana AI bisa dipadukan sama web development
+- 📚 Masih terus belajar, dari kuliah maupun dari project pribadi
+- 🌱 Percaya kalau progress kecil tiap hari itu tetap progress
+- 💬 Kalau mau ngobrol soal ngoding, project, atau kolaborasi, gaskeun aja!
+
+<br />
 
 ## 🛠️ Tech Stack
 
@@ -50,24 +40,30 @@
         </td>
     </tr>
     <tr>
-        <td><b>Web</b></td>
+        <td><b>Front-End</b></td>
         <td>
             <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
             <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" />
             <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" />
             <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" />
             <img src="https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css" />
-            <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
-            <img src="https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress" />
-            <img src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel" />
         </td>
     </tr>
     <tr>
-        <td><b>AI Model</b></td>
+        <td><b>Back-End</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
+            <img src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel" />
+            <img src="https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress" />
+            <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>AI Tools</b></td>
         <td>
             <img src="https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai" />
             <img src="https://img.shields.io/badge/-Gemini-05122A?style=flat&logo=google" />
-            <img src="https://img.shields.io/badge/-claude-05122A?style=flat&logo=claude" />
+            <img src="https://img.shields.io/badge/-Claude-05122A?style=flat&logo=claude" />
         </td>
     </tr>
     <tr>
@@ -77,67 +73,73 @@
             <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite" />
             <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" />
             <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" />
-            <img src="https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle" />
         </td>
     </tr>
     <tr>
-        <td><b>VCS</b></td>
+        <td><b>Tools & Platform</b></td>
         <td>
             <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
             <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
-        </td>
-    </tr>
-    <tr>
-        <td><b>APIs</b></td>
-        <td>
-            <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" />
-            <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" />
-        </td>
-    </tr>
-    <tr>
-        <td><b>PaaS</b></td>
-        <td>
             <img src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel" />
             <img src="https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify" />
-            <img src="https://img.shields.io/badge/-Cloudflare%20Pages-05122A?style=flat&logo=cloudflare" />
-        </td>
-    </tr>
-    <tr>
-        <td><b>Serverless</b></td>
-        <td>
-            <img src="https://img.shields.io/badge/-Cloudflare%20Workers-05122A?style=flat&logo=cloudflare" />
-        </td>
-    </tr>
-    <tr>
-        <td><b>Editor</b></td>
-        <td>
-            <img src="https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio-code" />
+            <img src="https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare" />
+            <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" />
+            <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code" />
         </td>
     </tr>
 </table>
 
+<br />
 
-<!-- <p align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=ridwaanhall&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=contribs" alt="Ridwan Halim GitHub Stats" />
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwaanhall&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=javascript,css,php" alt="Top Languages" />
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwaanhall&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+## 📊 GitHub Stats
+
+<p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=King-Rackka&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=contribs" alt="King-Rackka GitHub Stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-Rackka&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6" alt="Top Languages" />
 </p>
 
-## ⏱️ Wakatime Stats
-
 <p align="center">
-    <a href="https://wakatime.com/@ridwaanhall">
-        <img src="https://wakatime.com/share/@ridwaanhall/814541a6-1677-46dc-ba38-6bbec125c7b1.png" alt="Wakatime Chart" width="60%" />
-    </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=King-Rackka&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </p>
-<p align="center">
-    <a href="https://wakatime.com/@ridwaanhall">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ridwaanhall&layout=compact&hide_border=true&hide=other&theme=tokyonight&bg_color=00000000&langs_count=6" alt="Wakatime Stats" />
-    </a>
-</p> -->
 
----
+<br />
+
+## 🚀 Featured Projects
+
+<table align="center">
+    <tr>
+        <td width="33%" align="center">
+            <a href="https://github.com/King-Rackka/Trassic" target="_blank"><b>🔹 Trassic</b></a>
+            <br /><sub>Project — cek repo untuk detail lengkap</sub>
+        </td>
+        <td width="33%" align="center">
+            <a href="https://github.com/King-Rackka/Nexara" target="_blank"><b>🔹 Nexara</b></a>
+            <br /><sub>Project — cek repo untuk detail lengkap</sub>
+        </td>
+        <td width="33%" align="center">
+            <a href="https://github.com/King-Rackka/StuTime" target="_blank"><b>🔹 StuTime</b></a>
+            <br /><sub>Project — cek repo untuk detail lengkap</sub>
+        </td>
+    </tr>
+</table>
+
+<br />
+
+## 🌐 Connect With Me
 
 <p align="center">
-    <b>Let's connect and build something amazing together!</b>
+    <a href="https://www.linkedin.com/in/radityameyka/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-radityameyka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://instagram.com/rackka.docs" target="_blank"><img src="https://img.shields.io/badge/Instagram-rackka.docs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="mailto:radityameyka5@gmail.com"><img src="https://img.shields.io/badge/Gmail-radityameyka5-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Discord-raditya5563-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
+
+<br />
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:1CA0F1&height=100&section=footer" width="100%" />
+</p>
+
+<p align="center">
+    <b>Let's connect and build something amazing together! 🚀</b>
 </p>
