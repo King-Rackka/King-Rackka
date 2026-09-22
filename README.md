@@ -1,4 +1,4 @@
-<!-- <p align="center">
+<p align="center">
     <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="40" alt="Hi" />
 </p>
 
@@ -238,7 +238,7 @@ This section is dedicated to those who support my work monthly/one time through
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=ridwaanhall&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=contribs" alt="Ridwan Halim GitHub Stats" />
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwaanhall&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=javascript,css,php" alt="Top Languages" />
     <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwaanhall&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
@@ -255,10 +255,10 @@ This section is dedicated to those who support my work monthly/one time through
     <a href="https://wakatime.com/@ridwaanhall">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ridwaanhall&layout=compact&hide_border=true&hide=other&theme=tokyonight&bg_color=00000000&langs_count=6" alt="Wakatime Stats" />
     </a>
-</p>
+</p> -->
 
 ---
 
 <p align="center">
     <b>Let's connect and build something amazing together!</b>
-</p> -->
+</p>
