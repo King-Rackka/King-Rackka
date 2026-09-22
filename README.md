@@ -3,13 +3,14 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=1CA0F1&center=true&vCenter=true&width=435&lines=Assalamu'alaikum,+I'm+Raditya+Meyka;Welcome+to+my+GitHub+profile!" alt="ridwaanhall is a web and ai programmer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=1CA0F1&center=true&vCenter=true&width=435&lines=Assalamu'alaikum,+I'm+Raditya;Welcome+to+my+GitHub+profile!" alt="ridwaanhall is a web and ai programmer" />
 </h1>
 
 <p align="center">
     <samp>
-        <a href="https://ridwaanhall.com" target="_blank">Web Portfolio</a> | <a href="https://bio.ridwaanhall.com" target="_blank">Landing Page</a> |
-        <a href="https://ridwaanhall.com/blog/" target="_blank">Blog</a>
+        <a href="https://radityameyka.my.id/" target="_blank">Web Portfolio</a> 
+        <!-- <a href="https://bio.ridwaanhall.com" target="_blank">Landing Page</a> |
+        <a href="https://ridwaanhall.com/blog/" target="_blank">Blog</a> -->
     </samp>
 </p>
 
@@ -76,7 +77,7 @@
             <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite" />
             <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" />
             <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" />
-            <img src="https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle" />
+            <img src="https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle" />
         </td>
     </tr>
     <tr>
