@@ -36,30 +36,24 @@ Halo! Aku **Raditya Meyka Harry Sandhiva**, Front-End Developer yang mulai kenal
         </td>
     </tr>
     <tr>
-        <td><b>Front-End</b></td>
+        <td><b>Web</b></td>
         <td>
             <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
             <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" />
             <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" />
             <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" />
             <img src="https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css" />
-        </td>
-    </tr>
-    <tr>
-        <td><b>Back-End</b></td>
-        <td>
             <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
-            <img src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel" />
             <img src="https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress" />
-            <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" />
+            <img src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel" />
         </td>
     </tr>
     <tr>
-        <td><b>AI Tools</b></td>
+        <td><b>AI Model</b></td>
         <td>
             <img src="https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai" />
             <img src="https://img.shields.io/badge/-Gemini-05122A?style=flat&logo=google" />
-            <img src="https://img.shields.io/badge/-Claude-05122A?style=flat&logo=claude" />
+            <img src="https://img.shields.io/badge/-claude-05122A?style=flat&logo=claude" />
         </td>
     </tr>
     <tr>
@@ -69,18 +63,41 @@ Halo! Aku **Raditya Meyka Harry Sandhiva**, Front-End Developer yang mulai kenal
             <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite" />
             <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" />
             <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" />
+            <img src="https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle" />
         </td>
     </tr>
     <tr>
-        <td><b>Tools & Platform</b></td>
+        <td><b>VCS</b></td>
         <td>
             <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
             <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>APIs</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" />
+            <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>PaaS</b></td>
+        <td>
             <img src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel" />
             <img src="https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify" />
-            <img src="https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare" />
-            <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" />
-            <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code" />
+            <img src="https://img.shields.io/badge/-Cloudflare%20Pages-05122A?style=flat&logo=cloudflare" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>Serverless</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/-Cloudflare%20Workers-05122A?style=flat&logo=cloudflare" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>Editor</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio-code" />
         </td>
     </tr>
 </table>
@@ -109,25 +126,26 @@ Halo! Aku **Raditya Meyka Harry Sandhiva**, Front-End Developer yang mulai kenal
 
 ## 🚀 Featured Projects
 
+<div align="center" style="border: 1px solid #2d3548; border-radius: 12px; padding: 20px; background-color: #0d1117; display: inline-block; max-width: 900px;">
+
 <table align="center">
     <tr>
-        <td width="33%" align="center">
-            <a href="https://github.com/King-Rackka/Trassic" target="_blank"><b>🔹 Trassic</b></a>
-            <br /><sub>Project — cek repo untuk detail lengkap</sub>
+        <td align="center">
+            <img height="165" src="https://github-readme-stats-navy-phi-95.vercel.app/api?username=King-Rackka&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=contribs" alt="King-Rackka GitHub Stats" />
         </td>
-        <td width="33%" align="center">
-            <a href="https://github.com/King-Rackka/Nexara" target="_blank"><b>🔹 Nexara</b></a>
-            <br /><sub>Project — cek repo untuk detail lengkap</sub>
-        </td>
-        <td width="33%" align="center">
-            <a href="https://github.com/King-Rackka/StuTime" target="_blank"><b>🔹 StuTime</b></a>
-            <br /><sub>Project — cek repo untuk detail lengkap</sub>
+        <td align="center">
+            <img height="165" src="https://github-readme-stats-navy-phi-95.vercel.app/api/top-langs/?username=King-Rackka&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6" alt="Top Languages" />
         </td>
     </tr>
 </table>
 
-<br />
+<hr style="border: none; border-top: 1px solid #2d3548; margin: 8px 0;" />
 
+<img src="https://streak-stats.demolab.com/?user=King-Rackka&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+
+</div>
+
+<br />
 ## 🌐 Connect With Me
 
 <p align="center">
