@@ -146,11 +146,12 @@ Halo! Aku **Raditya Meyka Harry Sandhiva**, Front-End Developer yang mulai kenal
 <br />
 ## 🌐 Connect With Me
 
+<br/>
 <p align="center">
     <a href="https://radityameyka.my.id/" target="_blank"><img src="https://img.shields.io/badge/radityameyka.my.id-1CA0F1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/radityameyka/" target="_blank"><img src="https://img.shields.io/badge/radityameyka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://instagram.com/rackka.docs" target="_blank"><img src="https://img.shields.io/badge/rackka.docs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="mailto:radityameyka5@gmail.com"><img src="https://img.shields.io/badge/Gmail-radityameyka5-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:radityameyka5@gmail.com"><img src="https://img.shields.io/badge/radityameyka5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br />
