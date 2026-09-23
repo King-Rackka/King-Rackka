@@ -9,11 +9,12 @@
 <img src="https://img.shields.io/github/stars/King-Rackka?label=STARS&style=for-the-badge&color=6C63FF&labelColor=1a1a2e" alt="Stars" />
 
 <br>
-<p align="center" style="gap : 30px">
-    <a href="https://radityameyka.my.id/" target="_blank"><img src="https://img.shields.io/badge/radityameyka.my.id-1CA0F1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/radityameyka/" target="_blank"><img src="https://img.shields.io/badge/radityameyka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://instagram.com/rackka.docs" target="_blank"><img src="https://img.shields.io/badge/rackka.docs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="mailto:radityameyka5@gmail.com"><img src="https://img.shields.io/badge/radityameyka5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br>
+<p align="center" style="display: flex; gap: 30px;">
+    <a href="https://radityameyka.my.id/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-radityameyka.my.id-1CA0F1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/radityameyka/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-radityameyka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/rackka.docs" target="_blank"><img src="https://img.shields.io/badge/Instagram-rackka.docs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
+    <a href="mailto:radityameyka5@gmail.com"><img src="https://img.shields.io/badge/Gmail-radityameyka5-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
