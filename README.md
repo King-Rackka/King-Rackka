@@ -126,24 +126,22 @@ Halo! Aku **Raditya Meyka Harry Sandhiva**, Front-End Developer yang mulai kenal
 
 ## 🚀 Featured Projects
 
-<div align="center" style="border: 1px solid #2d3548; border-radius: 12px; padding: 20px; background-color: #0d1117; display: inline-block; max-width: 900px;">
-
 <table align="center">
     <tr>
-        <td align="center">
-            <img height="165" src="https://github-readme-stats-navy-phi-95.vercel.app/api?username=King-Rackka&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&hide=contribs" alt="King-Rackka GitHub Stats" />
+        <td width="33%" align="center">
+            <a href="https://github.com/King-Rackka/Trassic" target="_blank"><b>🔹 Trassic</b></a>
+            <br /><sub>Project — cek repo untuk detail lengkap</sub>
         </td>
-        <td align="center">
-            <img height="165" src="https://github-readme-stats-navy-phi-95.vercel.app/api/top-langs/?username=King-Rackka&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6" alt="Top Languages" />
+        <td width="33%" align="center">
+            <a href="https://github.com/King-Rackka/Nexara" target="_blank"><b>🔹 Nexara</b></a>
+            <br /><sub>Project — cek repo untuk detail lengkap</sub>
+        </td>
+        <td width="33%" align="center">
+            <a href="https://github.com/King-Rackka/StuTime" target="_blank"><b>🔹 StuTime</b></a>
+            <br /><sub>Project — cek repo untuk detail lengkap</sub>
         </td>
     </tr>
 </table>
-
-<hr style="border: none; border-top: 1px solid #2d3548; margin: 8px 0;" />
-
-<img src="https://streak-stats.demolab.com/?user=King-Rackka&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-
-</div>
 
 <br />
 ## 🌐 Connect With Me
