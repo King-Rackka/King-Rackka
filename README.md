@@ -146,7 +146,8 @@ Halo! Aku **Raditya Meyka Harry Sandhiva**, Front-End Developer yang mulai kenal
 <br />
 ## 🌐 Connect With Me
 
-<br/>
+<br>
+<br>
 <p align="center">
     <a href="https://radityameyka.my.id/" target="_blank"><img src="https://img.shields.io/badge/radityameyka.my.id-1CA0F1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/radityameyka/" target="_blank"><img src="https://img.shields.io/badge/radityameyka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
