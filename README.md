@@ -138,7 +138,7 @@ Halo! Aku **Raditya Meyka Harry Sandhiva**, Front-End Developer yang mulai kenal
     <tr>
         <td width="33%" align="center">
             <a href="https://github.com/King-Rackka/Trassic" target="_blank"><b>🔹 Trassic</b></a>
-            <br /><sub>Galeri digital karya daur ulang Indonesia yang mempertemukan kreator dan UMKM dengan masyarakat luas. Setiap karya mencantumkan jenis, sumber, dan berat sampah yang dipakai, sehingga dampak lingkungannya transparan.</sub>
+            <br /><sub>Galeri digital karya daur ulang Indonesia yang mempertemukan kreator dan UMKM dengan masyarakat luas. Setiap karya mencantumkan jenis sampah yang dipakai, sehingga dampak lingkungannya transparan.</sub>
         </td>
         <td width="33%" align="center">
             <a href="https://github.com/King-Rackka/Nexara" target="_blank"><b>🔹 Nexara</b></a>
@@ -146,7 +146,7 @@ Halo! Aku **Raditya Meyka Harry Sandhiva**, Front-End Developer yang mulai kenal
         </td>
         <td width="33%" align="center">
             <a href="https://github.com/King-Rackka/StuTime" target="_blank"><b>🔹 StuTime</b></a>
-            <br /><sub>Aplikasi produktivitas untuk mahasiswa yang menggabungkan task manager, catatan kuliah, timer Pomodoro, dan kalender deadline. Ada juga generator daftar pustaka (APA, IEEE, Chicago) untuk membantu tugas akademik.</sub>
+            <br /><sub>Aplikasi produktivitas untuk mahasiswa yang menggabungkan task manager, catatan kuliah, timer Pomodoro, dan kalender deadline. Ada juga generator daftar pustaka untuk membantu tugas akademik.</sub>
         </td>
     </tr>
 </table>
